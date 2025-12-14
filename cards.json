@@ -13,7 +13,7 @@
   { "id": "N12", "name": "Fast feedback", "group": "Neutral", "timing": "Immediate", "effect": "+1 Maturity, +1 Size on one feature in the sprint", "reshuffle": false },
   { "id": "N13", "name": "Parallelization", "group": "Neutral", "timing": "Hold", "effect": "One build ignores focus penalty", "reshuffle": false },
   { "id": "N14", "name": "Stakeholder pause", "group": "Neutral", "timing": "Immediate", "effect": "No events tomorrow", "reshuffle": false },
-  { "id": "N15", "name": "Learning debt", "group": "Neutral", "timing": "Hold", "effect": "–1 Maturity later", "reshuffle": false },
+  { "id": "N15", "name": "Learning debt", "group": "Neutral", "timing": "Hold", "effect": "–1 Maturity later - at the cost of -1 Size", "reshuffle": false },
   { "id": "N16", "name": "Priority nudge", "group": "Neutral", "timing": "Immediate", "effect": "Move build focus without penalty", "reshuffle": false },
 
   { "id": "MB01", "name": "Unclear requirements", "group": "Minor Bad", "timing": "Immediate", "effect": "–1 Maturity on currently built feature", "reshuffle": false },
