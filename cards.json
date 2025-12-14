@@ -23,7 +23,7 @@
   { "id": "MB05", "name": "Context fatigue", "group": "Minor Bad", "timing": "Hold", "effect": "Next focus switch is hard", "reshuffle": false },
   { "id": "MB06", "name": "Stakeholder distraction", "group": "Minor Bad", "timing": "Immediate", "effect": "–1 to your next Discovery roll", "reshuffle": false },
   { "id": "MB07", "name": "Knowledge silo", "group": "Minor Bad", "timing": "Immediate", "effect": "Discovery across epics: –1 to Discovery rolls today.", "reshuffle": false },
-  { "id": "MB08", "name": "Estimation churn", "group": "Minor Bad", "timing": "Immediate", "effect": "Estimation yields +1 Size", "reshuffle": false },
+  { "id": "MB08", "name": "Estimation churn", "group": "Minor Bad", "timing": "Immediate", "effect": "Next Estimation yields +1 Size", "reshuffle": false },
   { "id": "MB09", "name": "Tooling issue", "group": "Minor Bad", "timing": "Immediate", "effect": "Lose 1 action tomorrow", "reshuffle": false },
   { "id": "MB10", "name": "QA feedback", "group": "Minor Bad", "timing": "Immediate", "effect": "–1 Build progress on currently built feature", "reshuffle": false },
   { "id": "MB11", "name": "Slow approval", "group": "Minor Bad", "timing": "Immediate", "effect": "The currently built feature cannot be completed today.", "reshuffle": false },
@@ -32,7 +32,7 @@
   { "id": "MB14", "name": "Partial outage", "group": "Minor Bad", "timing": "Immediate", "effect": "Lose one build action today", "reshuffle": false },
 
   { "id": "MJ01", "name": "Major production incident", "group": "Major Bad", "timing": "Immediate", "effect": "Lose all Build actions today", "reshuffle": false },
-  { "id": "MJ02", "name": "Executive reprioritization", "group": "Major Bad", "timing": "Immediate", "effect": "Swap currently built feature with highest priority from your backlog, and get 1 extra action", "reshuffle": false },
+  { "id": "MJ02", "name": "Executive reprioritization", "group": "Major Bad", "timing": "Immediate", "effect": "Swap currently built feature with highest priority from your backlog, and get 1 extra action. This counts as pulling a feature mid-sprint.", "reshuffle": false },
   { "id": "MJ03", "name": "Architecture rethink", "group": "Major Bad", "timing": "Immediate", "effect": "Reset maturity to 1 for currently built feature", "reshuffle": false },
   { "id": "MJ04", "name": "Team member unavailable", "group": "Major Bad", "timing": "Immediate", "effect": "–2 to all Discover & Build rolls today", "reshuffle": false },
   { "id": "MJ05", "name": "Market shift", "group": "Major Bad", "timing": "Immediate", "effect": "–1 Value step on top feature in the sprint", "reshuffle": false },
