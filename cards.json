@@ -41,5 +41,5 @@
   { "id": "G01", "name": "Breakthrough insight", "group": "Good", "timing": "Immediate", "effect": "+2 Maturity", "reshuffle": false },
   { "id": "G02", "name": "Exceptional flow", "group": "Good", "timing": "Immediate", "effect": "+2 Build progress", "reshuffle": false },
   { "id": "G03", "name": "Strong alignment", "group": "Good", "timing": "Immediate", "effect": "Morale +1", "reshuffle": false },
-  { "id": "G04", "name": "Momentum", "group": "Good", "timing": "Immediate", "effect": "Ignore all penalties today", "reshuffle": true }
+  { "id": "G04", "name": "Momentum", "group": "Good", "timing": "Immediate", "effect": "Ignore all penalties tomorrow", "reshuffle": true }
 ]
