@@ -5,7 +5,7 @@
   { "id": "N04", "name": "Dependency resolved", "group": "Neutral", "timing": "Immediate", "effect": "–1 Complexity on one feature in the current sprint", "reshuffle": false },
   { "id": "N05", "name": "New insight", "group": "Neutral", "timing": "Hold", "effect": "+1 Maturity in the next sprint", "reshuffle": false },
   { "id": "N06", "name": "Refactoring opportunity", "group": "Neutral", "timing": "Immediate", "effect": "–1 Size on the feature you are building, but –1 Maturity on it", "reshuffle": false },
-  { "id": "N07", "name": "Unexpected learning", "group": "Neutral", "timing": "Immediate", "effect": "Swap maturity between two features in the sprint", "reshuffle": false },
+  { "id": "N07", "name": "Unexpected learning", "group": "Neutral", "timing": "Immediate", "effect": "Swap Maturity values between two features in the sprint (Maturity may drop to 0).", "reshuffle": false },
   { "id": "N08", "name": "Partial rollback", "group": "Neutral", "timing": "Immediate", "effect": "–1 Build progress on one feature", "reshuffle": false },
   { "id": "N09", "name": "Planning workshop", "group": "Neutral", "timing": "Immediate", "effect": "Get one Estimation action for free today", "reshuffle": false },
   { "id": "N10", "name": "Clarified scope", "group": "Neutral", "timing": "Immediate", "effect": "–1 Size if feature is at Maturity = 3", "reshuffle": false },
