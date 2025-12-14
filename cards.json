@@ -1,7 +1,7 @@
 [
   { "id": "N01", "name": "Stakeholder clarification", "group": "Neutral", "timing": "Immediate", "effect": "+1 Maturity to any feature in the current sprint", "reshuffle": false },
-  { "id": "N02", "name": "Design sync", "group": "Neutral", "timing": "Immediate", "effect": "+1 to your Discovery roll today", "reshuffle": false },
-  { "id": "N03", "name": "Tech spike", "group": "Neutral", "timing": "Immediate", "effect": "+1 to your Build roll today", "reshuffle": false },
+  { "id": "N02", "name": "Design sync", "group": "Neutral", "timing": "Immediate", "effect": "+1 to your next Discovery roll today", "reshuffle": false },
+  { "id": "N03", "name": "Tech spike", "group": "Neutral", "timing": "Immediate", "effect": "+1 to your next Build roll today", "reshuffle": false },
   { "id": "N04", "name": "Dependency resolved", "group": "Neutral", "timing": "Immediate", "effect": "–1 Complexity on one feature in the current sprint", "reshuffle": false },
   { "id": "N05", "name": "New insight", "group": "Neutral", "timing": "Hold", "effect": "+1 Maturity in the next sprint", "reshuffle": false },
   { "id": "N06", "name": "Refactoring opportunity", "group": "Neutral", "timing": "Immediate", "effect": "–1 Size on the feature you build, but –1 Maturity on it", "reshuffle": false },
