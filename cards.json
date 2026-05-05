@@ -30,6 +30,10 @@
   { "id": "MB12", "name": "Team fatigue", "group": "Minor Bad", "timing": "Immediate", "effect": "Morale –1", "reshuffle": false },
   { "id": "MB13", "name": "Interrupted flow", "group": "Minor Bad", "timing": "Immediate", "effect": "Build focus penalty applies twice", "reshuffle": false },
   { "id": "MB14", "name": "Partial outage", "group": "Minor Bad", "timing": "Immediate", "effect": "Lose one build action today", "reshuffle": false },
+  { "id": "MB15", "name": "Small production bug", "group": "Minor Bad", "timing": "Immediate", "effect": "Add a Bug feature: C=1, Size=1, M=2, Value=0. Place it at top priority (takes Build Focus). Must be completed before the end of next day", "reshuffle": false },
+  { "id": "MB16", "name": "Annoying production bug", "group": "Minor Bad", "timing": "Immediate", "effect": "Add a Bug feature: C=1, Size=2, M=2, Value=0. Place it at top priority (takes Build Focus). Must be completed before the end of next day", "reshuffle": false },
+  { "id": "MB17", "name": "Coffee machine broke", "group": "Minor Bad", "timing": "Immediate", "effect": "Morale –1. –1 to all Discovery rolls today", "reshuffle": false },
+  { "id": "MB18", "name": "Town hall meeting", "group": "Minor Bad", "timing": "Immediate", "effect": "All Discovery actions today produce no Maturity", "reshuffle": false },
 
   { "id": "MJ01", "name": "Major production incident", "group": "Major Bad", "timing": "Immediate", "effect": "Lose all Build actions today", "reshuffle": false },
   { "id": "MJ02", "name": "Executive reprioritization", "group": "Major Bad", "timing": "Immediate", "effect": "Swap currently built feature with highest priority from your backlog, and get 1 extra action. Hard build focus switch rule is in effect.", "reshuffle": false },
